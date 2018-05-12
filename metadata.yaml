@@ -1,0 +1,30 @@
+_repo: Under-HandicapA-Novel_17981
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gregory, Jackson
+    birthdate: 1882
+    deathdate: 1943
+    gutenberg_agent_id: '3384'
+    url: http://www.gutenberg.org/2009/agents/3384
+    wikipedia: http://en.wikipedia.org/wiki/Jackson_Gregory
+description: ''
+gutenberg_issued: '2006-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Engineers -- Fiction'
+title: 'Under Handicap
+
+  A Novel'
+url: http://www.gutenberg.org/ebooks/17981
